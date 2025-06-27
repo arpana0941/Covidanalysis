@@ -1,6 +1,4 @@
-# Covidanalysis
-🦠 COVID-19 Dashboard: Case Study
-
+# Covidanalysis COVID-19 Dashboard: Case Study
 This project is a data visualization dashboard that explores the impact of COVID-19 in any country, using data from Our World in Data. It includes line plots showing trends in daily new cases, deaths, and vaccination progress over time.
 
 📊 Features
